@@ -613,7 +613,7 @@
         "LoreNotedsc": "Left behind by another survivor."
     },
     "moodles": {
-        "dead": "Elhunyt",
+        "dead": "Halott",
         "braindamage4": "Kómás",
         "braindamage3": "Súlyos idegrendszeri rongálódás",
         "braindamage2": "Idegrendszeri károsodás",
@@ -716,7 +716,7 @@
         "depression1": "Lehangolt",
         "depression2": "Boldogtalan",
         "depression3": "Depressziós",
-        "depression4": "Szuicid",
+        "depression4": "Elkeseredett",
         "trauma1": "Szorong",
         "trauma2": "Rémült",
         "trauma3": "Traumatizált",
