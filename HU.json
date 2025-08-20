@@ -1837,19 +1837,19 @@
                 "I feel like I'm going shrivel up and die..."
             ],
             "limbmuscle": [
-                "I can't move my <limb>!",
-                "My <limb> hurts...",
-                "I think my <limb> is hurt.",
-                "I need a check-up.",
-                "I think I really messed up my <limb>.",
-                "My <limb>'s so sore...",
-                "My <limb>'s screwed.",
-                "I messed my <limb> up bad.",
-                "Is my <limb> supposed to feel like that?",
-                "There's something wrong with my <limb>...",
-                "Ough! My <limb> feels weird!",
-                "My <limb> feels funny.",
-                "My <limb> isn't working."
+                "Nem tudom mozgatni a <limb>!",
+                "Fáj a <limb>...",
+                "Szerintem megsérült a <limb>.",
+                "Szükségem van egy kivizsgálásra.",
+                "Szerintem elég csúnyán megütöttem a <limb>.",
+                "Olyan érzékeny a <limb>...",
+                "A <limb> cseszve van.",
+                "Eléggé összezúztam a <limb>.",
+                "Így kellene éreznem a <limb>?",
+                "A <limb> valahogy nem okés...",
+                "Brr! Olyan bizarrnak érződik a <limb>!",
+                "Furcsán érzem a <limb>.",
+                "A <limb> felmondta a szolgálatot."
             ],
             "limbinfected": [
                 "My <limb> looks all swollen...",
