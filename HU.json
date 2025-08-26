@@ -1277,7 +1277,7 @@
         "wantstradetip": "Alacsonyabb árak, és nagyobb bizalom szerzés",
         "indifferenttip": "Normál árak, és bizalom szerzés",
         "wantskeeptip": "Magasabb árak, és nincs bizalom szerzés",
-        "costs": "<sprite index=9>Ennyibe kerül: ",
+        "costs": "<sprite index=9>Ár: ",
         "weighs": "<sprite index=0>Súly: ",
         "purchase": "Megvétel",
         "trade": "Tárgy túlélőnek adása",
