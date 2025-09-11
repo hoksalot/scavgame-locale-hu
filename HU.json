@@ -2910,7 +2910,7 @@
                 "Eeeehh... Talán máskor.",
                 "Meh.",
                 "...Nhh...",
-                "...hát őhh. Bocs."
+                "...hát őhh. Bocs, de nem."
             ],
             "traderdepressed": [
                 "...Őh... ...Jól vagy? Egy kicsit... Rosszkedvűnek nézel ki...?",
@@ -2992,14 +2992,14 @@
                 "Kéé, Nekem nincsen lőfegyverem, szóval kérlek teddel a tiedet, haver."
             ],
             "tradermeetimpairedspeech": [
-                "...Huh? What? Is there something in your mouth? I can't understand you...",
-                "Mmmff mff mmmmfff mhfff! That's what you sound like.",
-                "I get that this is a bad scenario we're in, but you can atleast put in some effort into speaking clearly..."
+                "...Huh? Mi van? Van valami a szádban? Nem értem mit mondasz...",
+                "Mmmff mff mmmmfff mhfff! pontosan így hangzol.",
+                "Oké értem, hogy egy elég reménytelen a helyzetünk, de legalább vehetnéd a fáradtságot, hogy érthetően beszélj..."
             ],
             "traderseehurt": [
-                "Since you're hurt, I'll let ya grab a bandage for free if you can find one around here...",
-                "Aww, you're hurt. If you can find a bandage on me, you can take it! I don't remember if I have one...",
-                "Ohh, you don't seem to be doing well... Tell ya what, you can grab a bandage for free if you see one."
+                "Mivel úgy látom, hogy elég csúnyán megsérültél, meg engedem, hogy vegyél egy kötszert ingyen...",
+                "Aww, megsérültél. Ha találsz egy kötszer itt nálam, nyugottan kösd be vele magad! Nem emlkékszem, hogy van-e itt egy valahol...",
+                "Ohh, nem nézel ki tú jól... Tudod mit, ha találsz egy kötszer nálam, oda adom ingyen."
             ],
             "swingresponse": [
                 "BOCSÁNAT!",
@@ -3015,57 +3015,57 @@
                 "TE!"
             ],
             "braindamaged": [
-                "I taste metal.",
-                "Did I eat something metallic?",
-                "I didn't know metal had a smell.",
-                "There's a metal taste in my mouth...",
-                "...Metal...?",
-                "What     is  happening",
-                "This      this  is    wrong .",
-                "I'm smelling something REALLY weird...",
-                "This isn't right. I feel a metallic taste...",
-                "Nor something angrily nor blissfully few?",
-                "An no one ourselves dry for invent by means of a most.",
-                "Very Well! Dynamics two zero nine fourty-two thre two two eight two seven.",
-                "Villa hastily the oho! Onto no one?",
-                "Good! Certainty someone itself I urgently!",
-                "For as oddly whom urgently him mate rats! Miner herself right on.",
-                "Expand ptui!",
-                "Travel truthfully deflation the improve which one another an a?",
-                "I see shadows in my eyes...",
-                "The colors of everything... It all tastes wrong...",
-                "...Wh... ...What... Yeah... Yes!",
-                "I smell copper.",
-                "This smell does not smell possible...",
-                "Si tir ti vucot svaklar si mi.",
-                "The",
-                "Ough! I taste metal... So much metal...",
+                "Fémes íz.",
+                "Ettem valami fémeset?",
+                "Nem tudtam, hogy a fémnek ilyen szaga van.",
+                "Egy fémes íz van a számban...",
+                "...Fém...?",
+                "Mi     is  történik",
+                "Ez      Ez  ez nem    nem jó .",
+                "Valami NAGYON fura szagot érzek...",
+                "Valami nincs rendben. Egy fémes ízt érzek a számban...",
+                "vagy valami dühösen, sem boldogan kevés?",
+                "Senki sem száraz magunknak, hogy feltaláljuk a legtöbbet.",
+                "Nagyon jó! Dinamikus kettő nulla kilenc negyvenkettő három kettő kettő nyolc kettő hét.",
+                "Hali viszlát, várj mi! Te, te mégse?",
+                "Jó! Valaki biztosan gyorsan és én gyorsan!",
+                "Mert furcsa módon ki sürgeti őt párzó patkányok! Maga a bányász is ott volt.",
+                "Növekvő ptui!",
+                "Utazás őszintén defláció a javítása, amely egymást egy?",
+                "Árnyakat látok a szememben...",
+                "Mindennek a szine... Semminek se normális az íze...",
+                "...M... ...Mi... Persze... Igen!",
+                "Réz szagot érzek.",
+                "Ez a szag egyszerüen lehetetlenség, hogy érezzem...",
+                "tu srucuk mut csunulutuk.",
+                "Az",
+                "Fúj! Fémes ízt érzek... Nagyon erős ez a fémes íz...",
                 "Kovgam varmunch persvek sia narod!",
-                "Since when does everything smell like this..?",
-                "This tastes wrong. Very wrong... Am I sick..?",
+                "Mióta van mindennek ilyen szaga..?",
+                "Ez az íz nem jó. Nagyon nem jó... én rosszúl vagyok..?",
                 "Gh... Hh-h...",
-                "What was that!?",
-                "Am... Am I imagining things..?"
+                "Az meg mi volt!?",
+                "Én... Én képzelődök..?"
             ]
         },
         {
             "tradermeetnormal": [
-                "Greetings.",
-                "Hello.",
-                "My pleasure to meet you.",
-                "Ah! Hello there!",
-                "Welcome, fellow traveler.",
-                "Greetings to you.",
-                "Welcome.",
-                "Nice to meet you!",
-                "I hope all is well."
+                "Üdvözlégy.",
+                "Helló.",
+                "Örülök, hogy találkoztunk.",
+                "Áh! Szia!",
+                "Üdvözöllek, vándor.",
+                "Légy üdvözölve.",
+                "Üdv.",
+                "Örülök, hogy találkoztunk!",
+                "Remélem minden rendben."
             ],
             "tradermeetgood": [
-                "I'm honored to see another survivor.",
-                "Oh! Hello! How are you doing, friend?",
-                "Greetings, dear. How are you doing?",
-                "Ah! Greetings. You look very chipper!",
-                "Ah, how happy I am to see someone like you!"
+                "Egy megtiszteltetés egy másik túlélővel találkozni.",
+                "Oh! Helló! Hogy vagy barátom?",
+                "Üdvözöllek, kedves. Hogy vagy?",
+                "Áh! Üdv. Nagyon vagány vagy!",
+                "Ah, Örülök vagy valaki hozzád hasonlót látok!"
             ],
             "tradermeetbad": [
                 "...I am not impressed.",
@@ -3079,12 +3079,12 @@
                 "Greetings."
             ],
             "traderwakegreet": [
-                "Good morning.",
-                "Hey, you're finally awake.",
-                "Greetings, you've awoken.",
-                "Guess who's awake!",
-                "Sleepyhead. Welcome back!",
-                "You were sleeping like a puppy, haha..."
+                "Jó reggelt.",
+                "Hé, te. Végre felkeltél.",
+                "Üdv, most már felkeltél.",
+                "Találd ki ki kelt fől!",
+                "Hé, álomszuszék. Végre itt vagy!",
+                "Úgy aludttál mint egy kis kutya, haha..."
             ],
             "tradergiveitem": [
                 "Thank you.",
